@@ -5,7 +5,7 @@
 
 ### INFO
 - This Code Is Free To Use And Copy
-- Credit To Johnstevens
+- Credit To @Johnsteven
 - Copyright 2021 LionelKaii
 
 
